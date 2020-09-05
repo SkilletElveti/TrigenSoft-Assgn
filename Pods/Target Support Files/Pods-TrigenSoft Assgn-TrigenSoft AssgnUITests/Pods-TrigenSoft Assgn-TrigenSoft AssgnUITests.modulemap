@@ -1,0 +1,6 @@
+framework module Pods_TrigenSoft_Assgn_TrigenSoft_AssgnUITests {
+  umbrella header "Pods-TrigenSoft Assgn-TrigenSoft AssgnUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
